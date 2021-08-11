@@ -110,7 +110,3 @@ if ganador == "X" or ganador == "O":
     print("El ganador es: " + ganador)
 else:
     print("Empate")
-
-
-
-
